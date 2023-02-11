@@ -1,0 +1,17 @@
+# #################################################################
+# The idea of this file is to have the list of the components to be
+# compiled with the full path of the source code of the componentes
+#
+# #################################################################
+
+# #################################################################
+# 
+# #################################################################
+
+# McAL component list
+
+## ./McAL/IoD/Adc/src
+
+## ./McAL/IoD/Dio/src
+
+## ./McAL/IoD/Pwm/src
